@@ -1,0 +1,4 @@
+Card List
+The cards are specifically ordered to go in order from more iconic to less iconic, and the goal is that the game will not only get harder because there's more cards to pick from but because they become slightly harder to differentiate (but not by much).
+
+Stone, Grass, Wood, Sponge, Spawner, Obsidian, Coal, Dirt, Birch, Polished Stone
